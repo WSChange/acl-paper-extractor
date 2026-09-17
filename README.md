@@ -58,7 +58,7 @@ streamlit run app.py --server.headless true
 
 ## 数据来源
 
-[ACL Anthology](https://aclanthology.org/) — 计算语言学领域的官方论文存档，数据以 XML 格式托管在 [GitHub](https://github.com/acl-org/acl-anthology)。
+[ACL Anthology](https://aclanthology.org/) — 计算语言学领域的官方论文存档，涵盖 ACL、EMNLP、NAACL、EACL、COLING、Findings 等主要会议，数据以 XML 格式托管在 [GitHub](https://github.com/acl-org/acl-anthology)。
 
 ## 许可证
 
