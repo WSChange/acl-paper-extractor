@@ -66,7 +66,6 @@ streamlit run app.py --server.headless true
 ### 1. OpenAI 兼容接口
 - 支持 OpenAI、DeepSeek、智谱、Gemini 等兼容接口
 - 需配置 API Base URL、API Key、模型名称
-- Gemini 免费额度可通过 [Google AI Studio](https://aistudio.google.com/) 获取 API Key，使用 `https://generativelanguage.googleapis.com/v1beta/openai` 作为 Base URL
 
 ### 2. DeepL
 - 注册地址：https://www.deepl.com/pro-api
